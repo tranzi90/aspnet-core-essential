@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = 05.OwnMiddlewareComponent
+build_property.ProjectDir = /Users/denis_levchenko/Downloads/aspnet-core-essential-materials/002_Middleware/002_Samples/Structure. Middleware/05.OwnMiddlewareComponent/
