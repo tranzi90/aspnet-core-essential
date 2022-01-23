@@ -1,0 +1,11 @@
+C:\Users\Евгений\Documents\Visual Studio 2017\Projects\Razor\003.ViewImports\bin\Debug\netcoreapp2.0\003.ViewImports.deps.json
+C:\Users\Евгений\Documents\Visual Studio 2017\Projects\Razor\003.ViewImports\bin\Debug\netcoreapp2.0\003.ViewImports.runtimeconfig.json
+C:\Users\Евгений\Documents\Visual Studio 2017\Projects\Razor\003.ViewImports\bin\Debug\netcoreapp2.0\003.ViewImports.runtimeconfig.dev.json
+C:\Users\Евгений\Documents\Visual Studio 2017\Projects\Razor\003.ViewImports\bin\Debug\netcoreapp2.0\003.ViewImports.dll
+C:\Users\Евгений\Documents\Visual Studio 2017\Projects\Razor\003.ViewImports\bin\Debug\netcoreapp2.0\003.ViewImports.pdb
+C:\Users\Евгений\Documents\Visual Studio 2017\Projects\Razor\003.ViewImports\obj\Debug\netcoreapp2.0\003.ViewImports.csprojResolveAssemblyReference.cache
+C:\Users\Евгений\Documents\Visual Studio 2017\Projects\Razor\003.ViewImports\obj\Debug\netcoreapp2.0\003.ViewImports.csproj.CoreCompileInputs.cache
+C:\Users\Евгений\Documents\Visual Studio 2017\Projects\Razor\003.ViewImports\obj\Debug\netcoreapp2.0\003.ViewImports.AssemblyInfoInputs.cache
+C:\Users\Евгений\Documents\Visual Studio 2017\Projects\Razor\003.ViewImports\obj\Debug\netcoreapp2.0\003.ViewImports.AssemblyInfo.cs
+C:\Users\Евгений\Documents\Visual Studio 2017\Projects\Razor\003.ViewImports\obj\Debug\netcoreapp2.0\003.ViewImports.dll
+C:\Users\Евгений\Documents\Visual Studio 2017\Projects\Razor\003.ViewImports\obj\Debug\netcoreapp2.0\003.ViewImports.pdb

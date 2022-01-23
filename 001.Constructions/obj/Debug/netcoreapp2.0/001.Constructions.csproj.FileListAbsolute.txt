@@ -1,0 +1,11 @@
+C:\Users\Евгений\Documents\Visual Studio 2017\Projects\Razor\001.Constructions\bin\Debug\netcoreapp2.0\001.Constructions.deps.json
+C:\Users\Евгений\Documents\Visual Studio 2017\Projects\Razor\001.Constructions\bin\Debug\netcoreapp2.0\001.Constructions.runtimeconfig.json
+C:\Users\Евгений\Documents\Visual Studio 2017\Projects\Razor\001.Constructions\bin\Debug\netcoreapp2.0\001.Constructions.runtimeconfig.dev.json
+C:\Users\Евгений\Documents\Visual Studio 2017\Projects\Razor\001.Constructions\bin\Debug\netcoreapp2.0\001.Constructions.dll
+C:\Users\Евгений\Documents\Visual Studio 2017\Projects\Razor\001.Constructions\bin\Debug\netcoreapp2.0\001.Constructions.pdb
+C:\Users\Евгений\Documents\Visual Studio 2017\Projects\Razor\001.Constructions\obj\Debug\netcoreapp2.0\001.Constructions.csprojResolveAssemblyReference.cache
+C:\Users\Евгений\Documents\Visual Studio 2017\Projects\Razor\001.Constructions\obj\Debug\netcoreapp2.0\001.Constructions.csproj.CoreCompileInputs.cache
+C:\Users\Евгений\Documents\Visual Studio 2017\Projects\Razor\001.Constructions\obj\Debug\netcoreapp2.0\001.Constructions.AssemblyInfoInputs.cache
+C:\Users\Евгений\Documents\Visual Studio 2017\Projects\Razor\001.Constructions\obj\Debug\netcoreapp2.0\001.Constructions.AssemblyInfo.cs
+C:\Users\Евгений\Documents\Visual Studio 2017\Projects\Razor\001.Constructions\obj\Debug\netcoreapp2.0\001.Constructions.dll
+C:\Users\Евгений\Documents\Visual Studio 2017\Projects\Razor\001.Constructions\obj\Debug\netcoreapp2.0\001.Constructions.pdb
