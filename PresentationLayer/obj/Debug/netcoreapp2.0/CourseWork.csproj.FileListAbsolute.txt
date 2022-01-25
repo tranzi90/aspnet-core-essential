@@ -1,0 +1,15 @@
+C:\Users\Евгений\Documents\Visual Studio 2017\Projects\University\OOP\CourseWork\CourseWork\bin\Debug\netcoreapp2.0\CourseWork.deps.json
+C:\Users\Евгений\Documents\Visual Studio 2017\Projects\University\OOP\CourseWork\CourseWork\bin\Debug\netcoreapp2.0\CourseWork.runtimeconfig.json
+C:\Users\Евгений\Documents\Visual Studio 2017\Projects\University\OOP\CourseWork\CourseWork\bin\Debug\netcoreapp2.0\CourseWork.runtimeconfig.dev.json
+C:\Users\Евгений\Documents\Visual Studio 2017\Projects\University\OOP\CourseWork\CourseWork\bin\Debug\netcoreapp2.0\CourseWork.dll
+C:\Users\Евгений\Documents\Visual Studio 2017\Projects\University\OOP\CourseWork\CourseWork\bin\Debug\netcoreapp2.0\CourseWork.pdb
+C:\Users\Евгений\Documents\Visual Studio 2017\Projects\University\OOP\CourseWork\CourseWork\obj\Debug\netcoreapp2.0\CourseWork.csprojResolveAssemblyReference.cache
+C:\Users\Евгений\Documents\Visual Studio 2017\Projects\University\OOP\CourseWork\CourseWork\obj\Debug\netcoreapp2.0\CourseWork.csproj.CoreCompileInputs.cache
+C:\Users\Евгений\Documents\Visual Studio 2017\Projects\University\OOP\CourseWork\CourseWork\obj\Debug\netcoreapp2.0\CourseWork.AssemblyInfoInputs.cache
+C:\Users\Евгений\Documents\Visual Studio 2017\Projects\University\OOP\CourseWork\CourseWork\obj\Debug\netcoreapp2.0\CourseWork.AssemblyInfo.cs
+C:\Users\Евгений\Documents\Visual Studio 2017\Projects\University\OOP\CourseWork\CourseWork\obj\Debug\netcoreapp2.0\CourseWork.dll
+C:\Users\Евгений\Documents\Visual Studio 2017\Projects\University\OOP\CourseWork\CourseWork\obj\Debug\netcoreapp2.0\CourseWork.pdb
+C:\Users\Евгений\Documents\Visual Studio 2017\Projects\University\OOP\CourseWork\CourseWork\bin\Debug\netcoreapp2.0\BusinessLogic.dll
+C:\Users\Евгений\Documents\Visual Studio 2017\Projects\University\OOP\CourseWork\CourseWork\bin\Debug\netcoreapp2.0\DataAccessLayer.dll
+C:\Users\Евгений\Documents\Visual Studio 2017\Projects\University\OOP\CourseWork\CourseWork\bin\Debug\netcoreapp2.0\BusinessLogic.pdb
+C:\Users\Евгений\Documents\Visual Studio 2017\Projects\University\OOP\CourseWork\CourseWork\bin\Debug\netcoreapp2.0\DataAccessLayer.pdb

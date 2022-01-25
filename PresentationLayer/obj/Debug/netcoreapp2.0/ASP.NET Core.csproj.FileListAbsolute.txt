@@ -1,0 +1,45 @@
+C:\Users\Евгений\Documents\Visual Studio 2017\Projects\University\OOP\CourseWork\CourseWork\bin\Debug\netcoreapp2.0\ASP.NET Core.deps.json
+C:\Users\Евгений\Documents\Visual Studio 2017\Projects\University\OOP\CourseWork\CourseWork\bin\Debug\netcoreapp2.0\ASP.NET Core.runtimeconfig.json
+C:\Users\Евгений\Documents\Visual Studio 2017\Projects\University\OOP\CourseWork\CourseWork\bin\Debug\netcoreapp2.0\ASP.NET Core.runtimeconfig.dev.json
+C:\Users\Евгений\Documents\Visual Studio 2017\Projects\University\OOP\CourseWork\CourseWork\bin\Debug\netcoreapp2.0\ASP.NET Core.dll
+C:\Users\Евгений\Documents\Visual Studio 2017\Projects\University\OOP\CourseWork\CourseWork\bin\Debug\netcoreapp2.0\ASP.NET Core.pdb
+C:\Users\Евгений\Documents\Visual Studio 2017\Projects\University\OOP\CourseWork\CourseWork\bin\Debug\netcoreapp2.0\BusinessLogic.dll
+C:\Users\Евгений\Documents\Visual Studio 2017\Projects\University\OOP\CourseWork\CourseWork\bin\Debug\netcoreapp2.0\DataAccessLayer.dll
+C:\Users\Евгений\Documents\Visual Studio 2017\Projects\University\OOP\CourseWork\CourseWork\bin\Debug\netcoreapp2.0\BusinessLogic.pdb
+C:\Users\Евгений\Documents\Visual Studio 2017\Projects\University\OOP\CourseWork\CourseWork\bin\Debug\netcoreapp2.0\DataAccessLayer.pdb
+C:\Users\Евгений\Documents\Visual Studio 2017\Projects\University\OOP\CourseWork\CourseWork\obj\Debug\netcoreapp2.0\ASP.NET Core.csprojResolveAssemblyReference.cache
+C:\Users\Евгений\Documents\Visual Studio 2017\Projects\University\OOP\CourseWork\CourseWork\obj\Debug\netcoreapp2.0\ASP.NET Core.csproj.CoreCompileInputs.cache
+C:\Users\Евгений\Documents\Visual Studio 2017\Projects\University\OOP\CourseWork\CourseWork\obj\Debug\netcoreapp2.0\ASP.NET Core.AssemblyInfoInputs.cache
+C:\Users\Евгений\Documents\Visual Studio 2017\Projects\University\OOP\CourseWork\CourseWork\obj\Debug\netcoreapp2.0\ASP.NET Core.AssemblyInfo.cs
+C:\Users\Евгений\Documents\Visual Studio 2017\Projects\University\OOP\CourseWork\CourseWork\obj\Debug\netcoreapp2.0\ASP.NET Core.dll
+C:\Users\Евгений\Documents\Visual Studio 2017\Projects\University\OOP\CourseWork\CourseWork\obj\Debug\netcoreapp2.0\ASP.NET Core.pdb
+C:\Users\Евгений\Documents\ITVDN\ASP.NET Core Essential\006_MVC_Models\006_Samples\Mapping\PresentationLayer\bin\Debug\netcoreapp2.0\ASP.NET Core.deps.json
+C:\Users\Евгений\Documents\ITVDN\ASP.NET Core Essential\006_MVC_Models\006_Samples\Mapping\PresentationLayer\bin\Debug\netcoreapp2.0\ASP.NET Core.runtimeconfig.json
+C:\Users\Евгений\Documents\ITVDN\ASP.NET Core Essential\006_MVC_Models\006_Samples\Mapping\PresentationLayer\bin\Debug\netcoreapp2.0\ASP.NET Core.runtimeconfig.dev.json
+C:\Users\Евгений\Documents\ITVDN\ASP.NET Core Essential\006_MVC_Models\006_Samples\Mapping\PresentationLayer\bin\Debug\netcoreapp2.0\ASP.NET Core.dll
+C:\Users\Евгений\Documents\ITVDN\ASP.NET Core Essential\006_MVC_Models\006_Samples\Mapping\PresentationLayer\bin\Debug\netcoreapp2.0\ASP.NET Core.pdb
+C:\Users\Евгений\Documents\ITVDN\ASP.NET Core Essential\006_MVC_Models\006_Samples\Mapping\PresentationLayer\bin\Debug\netcoreapp2.0\BusinessLogic.dll
+C:\Users\Евгений\Documents\ITVDN\ASP.NET Core Essential\006_MVC_Models\006_Samples\Mapping\PresentationLayer\bin\Debug\netcoreapp2.0\DataAccessLayer.dll
+C:\Users\Евгений\Documents\ITVDN\ASP.NET Core Essential\006_MVC_Models\006_Samples\Mapping\PresentationLayer\bin\Debug\netcoreapp2.0\BusinessLogic.pdb
+C:\Users\Евгений\Documents\ITVDN\ASP.NET Core Essential\006_MVC_Models\006_Samples\Mapping\PresentationLayer\bin\Debug\netcoreapp2.0\DataAccessLayer.pdb
+C:\Users\Евгений\Documents\ITVDN\ASP.NET Core Essential\006_MVC_Models\006_Samples\Mapping\PresentationLayer\obj\Debug\netcoreapp2.0\ASP.NET Core.csprojResolveAssemblyReference.cache
+C:\Users\Евгений\Documents\ITVDN\ASP.NET Core Essential\006_MVC_Models\006_Samples\Mapping\PresentationLayer\obj\Debug\netcoreapp2.0\ASP.NET Core.csproj.CoreCompileInputs.cache
+C:\Users\Евгений\Documents\ITVDN\ASP.NET Core Essential\006_MVC_Models\006_Samples\Mapping\PresentationLayer\obj\Debug\netcoreapp2.0\ASP.NET Core.AssemblyInfoInputs.cache
+C:\Users\Евгений\Documents\ITVDN\ASP.NET Core Essential\006_MVC_Models\006_Samples\Mapping\PresentationLayer\obj\Debug\netcoreapp2.0\ASP.NET Core.AssemblyInfo.cs
+C:\Users\Евгений\Documents\ITVDN\ASP.NET Core Essential\006_MVC_Models\006_Samples\Mapping\PresentationLayer\obj\Debug\netcoreapp2.0\ASP.NET Core.dll
+C:\Users\Евгений\Documents\ITVDN\ASP.NET Core Essential\006_MVC_Models\006_Samples\Mapping\PresentationLayer\obj\Debug\netcoreapp2.0\ASP.NET Core.pdb
+C:\Users\Евгений\Documents\ITVDN\ASP.NET Core Essential\010_Entity_Framework\Samples\ComplexArchitectureExample\PresentationLayer\bin\Debug\netcoreapp2.0\ASP.NET Core.deps.json
+C:\Users\Евгений\Documents\ITVDN\ASP.NET Core Essential\010_Entity_Framework\Samples\ComplexArchitectureExample\PresentationLayer\bin\Debug\netcoreapp2.0\ASP.NET Core.runtimeconfig.json
+C:\Users\Евгений\Documents\ITVDN\ASP.NET Core Essential\010_Entity_Framework\Samples\ComplexArchitectureExample\PresentationLayer\bin\Debug\netcoreapp2.0\ASP.NET Core.runtimeconfig.dev.json
+C:\Users\Евгений\Documents\ITVDN\ASP.NET Core Essential\010_Entity_Framework\Samples\ComplexArchitectureExample\PresentationLayer\bin\Debug\netcoreapp2.0\ASP.NET Core.dll
+C:\Users\Евгений\Documents\ITVDN\ASP.NET Core Essential\010_Entity_Framework\Samples\ComplexArchitectureExample\PresentationLayer\bin\Debug\netcoreapp2.0\ASP.NET Core.pdb
+C:\Users\Евгений\Documents\ITVDN\ASP.NET Core Essential\010_Entity_Framework\Samples\ComplexArchitectureExample\PresentationLayer\bin\Debug\netcoreapp2.0\BusinessLogic.dll
+C:\Users\Евгений\Documents\ITVDN\ASP.NET Core Essential\010_Entity_Framework\Samples\ComplexArchitectureExample\PresentationLayer\bin\Debug\netcoreapp2.0\DataAccessLayer.dll
+C:\Users\Евгений\Documents\ITVDN\ASP.NET Core Essential\010_Entity_Framework\Samples\ComplexArchitectureExample\PresentationLayer\bin\Debug\netcoreapp2.0\BusinessLogic.pdb
+C:\Users\Евгений\Documents\ITVDN\ASP.NET Core Essential\010_Entity_Framework\Samples\ComplexArchitectureExample\PresentationLayer\bin\Debug\netcoreapp2.0\DataAccessLayer.pdb
+C:\Users\Евгений\Documents\ITVDN\ASP.NET Core Essential\010_Entity_Framework\Samples\ComplexArchitectureExample\PresentationLayer\obj\Debug\netcoreapp2.0\ASP.NET Core.csprojResolveAssemblyReference.cache
+C:\Users\Евгений\Documents\ITVDN\ASP.NET Core Essential\010_Entity_Framework\Samples\ComplexArchitectureExample\PresentationLayer\obj\Debug\netcoreapp2.0\ASP.NET Core.csproj.CoreCompileInputs.cache
+C:\Users\Евгений\Documents\ITVDN\ASP.NET Core Essential\010_Entity_Framework\Samples\ComplexArchitectureExample\PresentationLayer\obj\Debug\netcoreapp2.0\ASP.NET Core.AssemblyInfoInputs.cache
+C:\Users\Евгений\Documents\ITVDN\ASP.NET Core Essential\010_Entity_Framework\Samples\ComplexArchitectureExample\PresentationLayer\obj\Debug\netcoreapp2.0\ASP.NET Core.AssemblyInfo.cs
+C:\Users\Евгений\Documents\ITVDN\ASP.NET Core Essential\010_Entity_Framework\Samples\ComplexArchitectureExample\PresentationLayer\obj\Debug\netcoreapp2.0\ASP.NET Core.dll
+C:\Users\Евгений\Documents\ITVDN\ASP.NET Core Essential\010_Entity_Framework\Samples\ComplexArchitectureExample\PresentationLayer\obj\Debug\netcoreapp2.0\ASP.NET Core.pdb
